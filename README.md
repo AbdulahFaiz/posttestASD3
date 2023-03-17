@@ -214,3 +214,28 @@ daftar_alat_musik.tambah_alat("Drum", "Pukul", "Tidak Tersedia") - Memanggil met
 daftar_alat_musik.tambah_alat("Bass", "Senar", "Tersedia") - Memanggil metode tambah_alat() pada objek daftar_alat_musik untuk menambahkan alat musik baru dengan nama "Bass", jenis "Senar", dan status "Tersedia".
 daftar_alat_musik.tambah_alat("Keyboard", "Elektronik", "Tidak Tersedia") - Memanggil metode tambah_alat() pada objek daftar_alat_musik untuk menambahkan alat musik baru dengan nama "Keyboard", jenis "Elektronik", dan status "Tidak Tersedia".
 jalankan_program() - Memanggil fungsi jalankan_program() yang menjalankan program utama.
+
+
+**Output**
+
+Menu Utama :
+![image](https://user-images.githubusercontent.com/121870536/225836450-75d57293-9852-47bb-9d71-870dc42871f3.png)
+
+Fungsi tambah :
+![image](https://user-images.githubusercontent.com/121870536/225836677-33c748b6-85fc-4e8e-998c-b70b4707483a.png)
+
+Fungsi tampil :
+![image](https://user-images.githubusercontent.com/121870536/225836896-5f14d09b-86be-4c9f-a481-96b49ca787a0.png)
+
+Fungsi search :
+![image](https://user-images.githubusercontent.com/121870536/225837201-e15417f6-e010-4023-a7df-0f79f59eed00.png)
+
+Fungsi update :
+![image](https://user-images.githubusercontent.com/121870536/225837372-f40d05b0-8f55-4312-942e-80036c37dca8.png)
+
+Fungsi hapus :
+![image](https://user-images.githubusercontent.com/121870536/225837513-8d541f32-8843-4952-82aa-f3fbdce3bd1e.png)
+
+Keluar :
+![image](https://user-images.githubusercontent.com/121870536/225837573-6ef7e1ee-ba51-4dbd-a259-6086f462feb7.png)
+
